@@ -1,0 +1,5 @@
+X,Y,Z,azimuth,dip,polarity,formation
+500,250,864.602,270,71.565,1,Main_Fault
+500,750,864.602,270,71.565,1,Main_Fault
+300,250,400,270,0,1,Sandstone
+300,750,400,270,0,1,Sandstone
