@@ -1,0 +1,4 @@
+,Fault_series,Sediment_series,Basement
+Fault_series,False,True,True
+Sediment_series,False,False,False
+Basement,False,False,False
